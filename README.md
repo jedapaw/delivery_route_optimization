@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 1.  Clone the repository:
     ```bash
-    git clone [Your Repository Link Here]
+    git clone https://github.com/jedapaw/delivery_route_optimization
     ```
 2.  Navigate to the directory:
     ```bash
